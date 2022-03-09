@@ -2,4 +2,4 @@
 
 ### Here is what it looks like:
 
-![Tweet your quote of the day!](image/Quote-Generator.mov)
+![Tweet your quote of the day!](image/quote-generator.gif)
